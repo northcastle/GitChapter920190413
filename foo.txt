@@ -1,1 +1,2 @@
 this is foo.txt create on local repostory
+this is second fix this file on local repostory
